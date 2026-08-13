@@ -1,0 +1,1 @@
+echo "apple, banana, mango" | awk -F ","  '{print $NF}'
