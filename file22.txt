@@ -1,0 +1,1 @@
+echo "apple, banana, mango" | cut -d "," -f1
